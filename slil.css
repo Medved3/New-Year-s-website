@@ -1,0 +1,190 @@
+#home {
+    text-align: center;
+}
+
+.pro {
+    text-align: center;
+    color: #0dee3a;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background: #31c8ff;
+    color: #333;
+}
+
+
+.onecon {
+    border-radius: 30px;
+     background: #4a90e2;
+    color: white;
+    padding: 40px;
+    margin-top: 40px;
+    text-align: center;
+}
+
+
+/* Плашки с картинками */
+.podarki{
+    display: inline-block;
+    padding: 20px;
+    background-color: #4a90e2;
+    border-radius: 20px;
+    margin: 15px;
+    text-align: center;
+}
+.podarki>img {
+    width: 300px;
+    height: 150px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.recept {
+    display: inline-block;
+    padding: 20px;
+    background-color: #4a90e2;
+    border-radius: 20px;
+    margin: 15px;
+    text-align: center;
+}
+.recept>img {
+    width: 300px;
+    height: 150px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.film {
+    display: inline-block;
+    padding: 20px;
+    background-color: #4a90e2;
+    border-radius: 20px;
+    margin: 15px;
+    text-align: center;
+}
+.film>img {
+    width: 300px;
+    height: 150px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.music {
+    display: inline-block;
+    padding: 20px;
+    background-color: #4a90e2;
+    border-radius: 20px;
+    margin: 15px;
+    text-align: center;
+}
+.music>img {
+    width: 300px;
+    height: 150px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+
+/* подвал */
+footer {
+    background: #222;
+    color: rgb(255, 255, 255);
+    padding: 15px;
+    margin-top: 20px;
+}
+
+
+.one {
+    color: #0dee3a;
+}
+h1{
+    color: #d30000;
+}
+
+
+
+
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+nav {
+    background: #7700ff;
+    padding: 20px 50px;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+nav ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    display: flex;
+    gap: 20px;
+}
+
+nav ul li a {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    transition: 0.3s;
+}
+
+nav ul li a:hover {
+    color: #76b4ff;
+}
+
+
+.content {
+    padding-top: 20px;
+    text-align: center;
+}
+
+/* надпись о чём сайт */
+.ochom {
+    color: #d30000;
+    text-align: center;
+}
+
+/* "история праздника" */
+.ongzag {
+    text-align: center;
+    color: #ffffff;
+    text-align: center;
+    background-color:#4a90e2 ;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    border-radius: 20px;
+    padding: 10px;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+.istoriyaprazdnika {
+    display: inline-block;
+}
+
+/*текст после надписи история праздника  */
+.textistor {
+    background-color:#4a90e2 ;
+    margin-left: 50px;
+    margin-right: 50px;
+    border-radius: 10px;
+    color: #ffffff;
+    padding-top: 10px;
+    padding-bottom: 20px;
+    padding-left: 20px ;
+    padding-right: 20px;
+}
+
+/* заголовок в истории праздника */
+.zagolovok {
+    color: #0dee3a;
+}
+/* объекты о чём */
+.centrovka {
+    text-align: center;
+}

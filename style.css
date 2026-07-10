@@ -1,0 +1,207 @@
+#home {
+    text-align: center;
+}
+
+.pro {
+    text-align: center;
+    color: #06b829;
+}
+
+.onecon {
+    border-radius: 30px;
+     background: #4a90e2;
+    color: white;
+    padding: 40px;
+    margin-top: 40px;
+    text-align: center;
+}
+
+
+.one {
+    color: #0dee3a;
+}
+h1{
+    color: #d30000;
+}
+
+
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background: #31c8ff;
+    color: #333;
+}
+
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+.content {
+    padding-top: 20px;
+    text-align: center;
+    color: #d30000;
+}
+
+
+/* подвал */
+footer {
+    background: #222;
+    color: rgb(255, 255, 255);
+    padding: 15px;
+    margin-top: 20px;
+    text-align: center;
+}
+
+
+/* навигационная панель */
+nav {
+    background: #7700ff;
+    padding: 20px 50px;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+nav ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    display: flex;
+    gap: 20px;
+}
+
+nav ul li a {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    transition: 0.3s;
+}
+
+nav ul li a:hover {
+    color: #76b4ff;
+}
+
+
+
+
+
+
+
+.infoproctr {
+    color: #0dee3a ;
+}
+
+
+
+/* Все варианты */
+.podarone {
+    text-align: center;
+    border-radius: 30px;
+    display: inline-block;
+    background-color:  #4a90e2;
+    margin: 50px;
+}
+.podarone>img {
+    text-align: end;
+    width: 700px;
+    height: 450px;
+    padding: 40px;
+    border-radius: 50px;
+    float: left;
+    margin-right: 15px;
+    margin-bottom: 10px;
+}
+
+.podartwo {
+    text-align: center;
+    border-radius: 30px;
+    display: inline-block;
+    background-color:  #4a90e2;
+    margin: 50px;
+    margin-top: 10px;
+}
+.podartwo>img {
+    text-align: end;
+    width: 700px;
+    height: 450px;
+    padding: 40px;
+    border-radius: 50px;
+    float: left;
+    margin-right: 15px;
+    margin-bottom: 10px;
+}
+
+.podartree {
+    text-align: center;
+    border-radius: 30px;
+    display: inline-block;
+    background-color:  #4a90e2;
+    margin: 50px;
+    margin-top: 10px;
+}
+.podartree>img {
+    text-align: end;
+    width: 700px;
+    height: 450px;
+    padding: 40px;
+    border-radius: 50px;
+    float: left;
+    margin-right: 15px;
+    margin-bottom: 10px;
+}
+
+.podarfour {
+    text-align: center;
+    border-radius: 30px;
+    display: inline-block;
+    background-color:  #4a90e2;
+    margin: 50px;
+    margin-top: 10px;
+}
+.podarfour>img {
+    text-align: end;
+    width: 700px;
+    height: 450px;
+    padding: 40px;
+    border-radius: 50px;
+    float: left;
+    margin-right: 15px;
+    margin-bottom: 10px;
+}
+
+.podarfive {
+    text-align: center;
+    border-radius: 30px;
+    display: inline-block;
+    background-color:  #4a90e2;
+    margin: 50px;
+    margin-top: 10px;
+}
+.podarfive>img {
+    text-align: end;
+    width: 700px;
+    height: 450px;
+    padding: 40px;
+    border-radius: 50px;
+    float: left;
+    margin-right: 15px;
+    margin-bottom: 10px;
+}
+/* Название объекта */
+.nazvan {
+    font-size: 40px;
+}
+
+/* Для описания подарков и других объектов */
+.opisanie{
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-right: 50px;
+    
+}
+
+/* Центровка всего */
+.conteyner {
+ text-align: center;
+}
